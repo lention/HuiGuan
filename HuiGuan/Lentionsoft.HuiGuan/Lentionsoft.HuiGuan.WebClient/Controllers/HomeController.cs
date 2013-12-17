@@ -10,7 +10,7 @@ namespace Lentionsoft.HuiGuan.WebClient.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+            ViewBag.Message = "本项目为非营利项目，由何蛟负责开发与维护。";
 
             return View();
         }

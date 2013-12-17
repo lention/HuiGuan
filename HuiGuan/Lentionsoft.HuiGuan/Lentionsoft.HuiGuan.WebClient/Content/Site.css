@@ -135,11 +135,19 @@ footer {
     margin: 0;
 }
 
+.logo {
+    margin-top:20px;
+    height:100px;
+    width:650px;
+    background-image:url("../Images/logo.png");
+    background-repeat:no-repeat;
+}
 .site-title a, .site-title a:hover, .site-title a:active {
     background: none;
     color: #c8c8c8;
     outline: none;
     text-decoration: none;
+   
 }
 
 
